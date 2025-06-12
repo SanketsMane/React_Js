@@ -80,3 +80,11 @@ it is running on port no - http://localhost:5173/
 
 
 
+### Git Push - 
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
