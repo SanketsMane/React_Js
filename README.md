@@ -32,7 +32,7 @@ npm run start or start
 npm run build 
 it will create build project 
 
-### This is an premitive way to use react js but from now we are using Vite to open projects
+## This is an premitive way to use react js but from now we are using Vite to open projects
 
 ### Commands - 
 
@@ -44,7 +44,7 @@ it will create build project
 
 4. select varient - JavaScript 
 
-### After Installation Steps - 
+## After Installation Steps - 
 
 1. Cd 01_Project_Name 
 
@@ -70,7 +70,7 @@ it is running on port no - http://localhost:5173/
 //app.js - remove injected files data/urls 
 
 
-### React Vite Project Stracture-
+## React Vite Project Stracture-
 1. assets - remove
 2. app.css -remove 
 3. index.css - remove
