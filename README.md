@@ -33,3 +33,50 @@ npm run build
 it will create build project 
 
 ### This is an premitive way to use react js but from now we are using Vite to open projects
+
+### Commands - 
+
+1. npm create vite@latest  //it will create vite project
+
+2. after enter Select project name // it will set project name 
+
+3. select framework - rect 
+
+4. select varient - JavaScript 
+
+### After Installation Steps - 
+
+1. Cd 01_Project_Name 
+
+2. npm install 
+
+3. npm run dev
+
+it is running on port no - http://localhost:5173/
+
+### Basic React Project - 
+
+## Package.json - All Files
+## src - main folder where all working of project is done -  //delete some files - 
+\\ setupTest.js - 
+\\ reportWebVitals - 
+\\ logo.svg - react logo 
+\\ index.css -
+\\ app.test -
+\\ app.css - 
+
+
+//index.js - clear the code and remove default code 
+//app.js - remove injected files data/urls 
+
+
+### React Vite Project Stracture-
+1. assets - remove
+2. app.css -remove 
+3. index.css - remove
+4. main.jsx & app.jsx //main files 
+        - now clear file stracture remove preCoded Values
+        -
+
+
+
