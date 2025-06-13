@@ -17,7 +17,7 @@ useReducer: Manages complex state logic using a reducer function.
 1. Hooks like useState enable functional components to manage their own state, simplifying code and improving readability.
 2. It Means it will help to change UI state - it has two parameters - count and setCount 
 
-`
+
 import { useState } from 'react';
 import './App.css'
 
@@ -52,4 +52,4 @@ function App() {
 }
 
 export default App
-`
+

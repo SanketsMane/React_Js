@@ -23,7 +23,7 @@ function App() {
   return (
     <>
       
-     <h1>Sanket and React</h1>
+     <h1>Counter Application</h1>
      <h2>Counter value: {counter} </h2>
      <button onClick={addValue}>Add Value</button>
      <br />
