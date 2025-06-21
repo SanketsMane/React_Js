@@ -1,0 +1,27 @@
+{
+  "hi": {
+    "heading": "हिंदी",
+    "main": "हिंदी",
+    "footer": "हिंदी"
+  },
+  "fr": {
+    "heading": "Français",
+    "main": "Français",
+    "footer": "Français"
+  },
+  "es": {
+    "heading": "Español",
+    "main": "Español",
+    "footer": "Español"
+  },
+  "de": {
+    "heading": "Deutsch",
+    "main": "Deutsch",
+    "footer": "Deutsch"
+  },
+  "ja": {
+    "heading": "日本語",
+    "main": "日本語",
+    "footer": "日本語"
+  }
+}
