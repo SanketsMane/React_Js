@@ -1,0 +1,2 @@
+npm i @reduxjs/toolkit react-redux react-router-dom appw
+rite @tinymce/tinymce-react html-react-parser react-hook-form
